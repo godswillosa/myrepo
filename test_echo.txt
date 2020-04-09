@@ -1,1 +1,2 @@
-this is my test of the echo command
+this is my test of the echo command I am trying to make changes to this file but for some reason I couldn't use vi to do it. Instead I am using the nano text editor 
+instead.
